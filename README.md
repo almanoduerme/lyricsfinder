@@ -15,4 +15,4 @@ npm install
 npm start
 
 ## Authors
-[Nahuel Gómez](https://www.github.com/gomeznahuel)
+[Nahuel Gómez](https://www.linkedin.com/in/gomeznahuel/)
